@@ -1,0 +1,44 @@
+<!-- Do not change the order of any strings in here, without discussing first on the "Issues" page -->
+<!-- Do not delete any blank lines -->
+<resources>
+    <!-- Settings/Appearance -->
+    <string name="settings_title_display">Hiển Thị</string>
+    <string name="setting_theme">Chủ Đề</string>
+    <string name="setting_transparent_widget">Widget trong suốt</string>
+    <string name="setting_wind_direction_format">Định dạng hướng gió</string>
+    <string name="setting_theme_fresh">Fresh</string>
+    <string name="setting_theme_classic">Classic</string>
+    <string name="setting_theme_dark">Fresh Dark</string>
+    <string name="setting_theme_classic_dark">Classic Dark</string>
+    <string name="setting_theme_black">Fresh Black</string>
+    <string name="setting_theme_classic_black">Classic Black</string>
+
+    <string name="wind_direction_format_none">Không có dấu hiệu</string>
+    <string name="wind_direction_format_arrows">Mũi tên</string>
+    <string name="wind_direction_format_abbreviations">Các từ viết tắt</string>
+    <string name="setting_displayDecimalZeroes">Hiển thị số 0,0000</string>
+
+    <!-- Settings/Data -->
+    <string name="last_update">Cập nhật lần cuối:\n%s</string>
+    <string name="last_update_widget">\nCập nhật lần cuối: %s</string>
+    <string name="settings_title_data">Dữ liệu</string>
+    <string name="setting_refreshInterval">Thời gian cập nhật dữ liệu</string>
+    <string name="settings_none">Không</string>
+    <string name="settings_15min">15 phút</string>
+    <string name="settings_30min">30 phút</string>
+    <string name="settings_1hour">1 h</string>
+    <string name="settings_2hour">2 h</string>
+    <string name="settings_6hour">6 h</string>
+    <string name="settings_12hour">12 h</string>
+    <string name="settings_24hour">24 h</string>
+    <string name="setting_apiKey">API key</string>
+    <string name="setting_apiKey_summary">API key tùy chỉnh OpenWeatherMap</string>
+
+    <!-- Settings/Date format -->
+    <string name="error_dateFormat">LỖI ĐỊNH DẠNG NGÀY</string>
+    <string name="setting_dateFormat">Định dạng ngày tháng</string>
+    <string name="setting_dateFormatCustom">Định dạng ngày tùy chỉnh</string>
+    <string name="setting_dateFormatCustom_summary">SimpleDateFormat sẽ được sử dụng</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Hủy bỏ</string>
+</resources>

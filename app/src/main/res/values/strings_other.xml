@@ -1,0 +1,23 @@
+<resources>
+    <!-- Errors -->
+    <string name="msg_err_parsing_json">Lỗi phân tích JSON.</string>
+    <string name="msg_http_error">Lỗi khi yêu cầu hoặc nhận dữ liệu.</string>
+    <string name="msg_connection_not_available">Kết nối không khả dụng.</string>
+    <string name="msg_city_not_found">Không tìm thấy địa điểm nào.</string>
+    <string name="msg_too_many_requests">Quá nhiều yêu cầu. Vui lòng thử lại.</string>
+    <string name="msg_invalid_api_key">API không hợp lệ.</string>
+
+    <!-- Location -->
+    <string name="settings_title_location">Vị trí</string>
+    <string name="setting_update_location_automatically">Cập nhật vị trí dưới nền</string>
+    <string name="location_settings">Cài đặt vị trí</string>
+    <string name="location_settings_message">Vị trí không được kích hoạt. Bạn có muốn vào cài đặt không?</string>
+    <string name="location_settings_button">Cài đặt</string>
+    <string name="location_search_heading">Vị trí</string>
+
+    <!-- Widget -->
+    <string name="widget_label_extensive">Mở Rộng</string>
+    <string name="widget_label_time">Thời Gian</string>
+    <string name="widget_label_simple">Đơn Giản</string>
+    <string name="widget_label_classic">Cổ Điển</string>
+</resources>

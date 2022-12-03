@@ -1,0 +1,47 @@
+<!-- Do not change the order of any strings in here, without discussing first on the "Issues" page -->
+<!-- Do not delete any blank lines -->
+<resources>
+    <!-- Settings/Units -->
+    <string name="settings_title_units">Đơn Vị</string>
+    <string name="setting_lengthUnits">Độ dài</string>
+    <string name="setting_speedUnits">Tốc độ gió</string>
+    <string name="setting_tempUnits">Nhiệt độ</string>
+    <string name="setting_showTempAsInteger">Chỉ hiển thị nhiệt độ dưới dạng số nguyên</string>
+    <string name="setting_pressureUnits">Áp suất</string>
+    <string name="setting_auto_detect_location">Phát hiện vị trí</string>
+    <string name="setting_differentiateDaysByTint">Phân biệt các ngày bằng màu sắc</string>
+
+    <string name="setting_unit_mps">Mét trên giây (m/s)</string>
+    <string name="setting_unit_kph">Ki lô mét một giờ (kph)</string>
+    <string name="setting_unit_mph">Dặm một giờ (mph)</string>
+    <string name="setting_unit_bft">Thang sức gió Beaufort (bft)</string>
+    <string name="setting_unit_kn">Knots (kn)</string>
+    <string name="setting_unit_Celsuis">Độ C</string>
+    <string name="setting_unit_Fahrenheit">Độ F</string>
+    <string name="setting_unit_Kelvin">Độ K</string>
+
+    <string name="setting_unit_mm">Milimét (mm)</string>
+    <string name="setting_unit_in">Inch (in)</string>
+
+    <string name="setting_unit_hpa">hPa/mBar</string>
+    <string name="setting_unit_kpa">kPa</string>
+    <string name="setting_unit_mmhg">mm Hg</string>
+    <string name="setting_unit_inhg">in Hg</string>
+
+    <string name="speed_unit_mps">m/s</string>
+    <string name="speed_unit_kph">kph</string>
+    <string name="speed_unit_mph">mph</string>
+    <string name="speed_unit_kn">kn</string>
+
+    <string name="pressure_unit_hpa">hPa/mBar</string>
+    <string name="pressure_unit_kpa">kPa</string>
+    <string name="pressure_unit_mmhg">mm Hg</string>
+    <string name="pressure_unit_inhg">in Hg</string>
+
+    <string name="uvi_no_info">Không có thông tin</string>
+    <string name="uvi_low">Thấp</string>
+    <string name="uvi_moderate">Vừa phải</string>
+    <string name="uvi_high">Cao</string>
+    <string name="uvi_very_high">Rất Cao</string>
+    <string name="uvi_extreme">Nguy Hiểm</string>
+</resources>

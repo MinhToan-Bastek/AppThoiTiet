@@ -1,0 +1,29 @@
+<!-- Do not change the order of any strings in here, without discussing first on the "Issues" page -->
+<!-- Do not delete any blank lines -->
+<resources>
+    <string name="app_name">Dự báo thời tiết API</string>
+    <!-- Main activity titles -->
+    <string name="action_search">Tìm Kiếm</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_about">Giới Thiệu</string>
+    <string name="search_title">Tìm kiếm thành phố</string>
+    <string name="downloading_data">Đang tải xuống dữ liệu ...</string>
+    <string name="getting_location">Tìm kiếm vị trí của bạn ...</string>
+    <string name="loading_data">Đang tải...</string>
+
+    <!-- Forecast cards -->
+    <string name="today">Hôm Nay</string>
+    <string name="tomorrow">Ngày Mai</string>
+    <string name="later">Thêm Nữa</string>
+
+    <!-- Main activity headings -->
+    <string name="wind">Gió</string>
+    <string name="wind_speed">Tốc Độ Gió</string>
+    <string name="pressure">Áp Suất</string>
+    <string name="humidity">Độ Ẩm</string>
+    <string name="sunrise">Bình Minh</string>
+    <string name="sunset">Hoàng Hôn</string>
+    <string name="uvindex">Chỉ số UV</string>
+    <!-- About dialogue -->
+    <string name="about_unknown">Không thể lấy phiên bản</string>
+</resources>

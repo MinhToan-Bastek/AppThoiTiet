@@ -1,0 +1,36 @@
+<!-- Do not change the order of any strings in here, without discussing first on the "Issues" page -->
+<!-- Do not delete any blank lines -->
+<resources>
+    <!-- Wind direction -->
+    <string name="wind_direction_north">Bắc</string>
+    <string name="wind_direction_north_north_east">Bắc Bắc Đông</string>
+    <string name="wind_direction_north_east">Đông Bắc</string>
+    <string name="wind_direction_east_north_east">Đông Đông Bắc</string>
+    <string name="wind_direction_east">Đông</string>
+    <string name="wind_direction_east_south_east">Đông Nam Đông</string>
+    <string name="wind_direction_south_east">Đông Nam</string>
+    <string name="wind_direction_south_south_east">Đông Đông Nam</string>
+    <string name="wind_direction_south">Nam</string>
+    <string name="wind_direction_south_south_west">Nam Nam Tây</string>
+    <string name="wind_direction_south_west">Nam Tây</string>
+    <string name="wind_direction_west_south_west">Tây Nam Tây</string>
+    <string name="wind_direction_west">Tây</string>
+    <string name="wind_direction_west_north_west">Tây Bắc Tây</string>
+    <string name="wind_direction_north_west">Tây Bắc</string>
+    <string name="wind_direction_north_north_west">Bắc Bắc Tây</string>
+
+    <!-- Wind strength - Beaufort -->
+    <string name="beaufort_calm">Yên tĩnh (0)</string>
+    <string name="beaufort_light_air">Gió rất nhẹ (1)</string>
+    <string name="beaufort_light_breeze">Gió yếu (2)</string>
+    <string name="beaufort_gentle_breeze">Gió nhẹ (3)</string>
+    <string name="beaufort_moderate_breeze">Gió vừa phải (4)</string>
+    <string name="beaufort_fresh_breeze">Gió mạnh vừa phải (5)</string>
+    <string name="beaufort_strong_breeze">Gió khá mạnh (6)</string>
+    <string name="beaufort_high_wind">Gió lốc (7)</string>
+    <string name="beaufort_gale">Gió lốc mạnh (8)</string>
+    <string name="beaufort_strong_gale">Strong gale (9)</string>
+    <string name="beaufort_storm">Bão (10)</string>
+        <string name="beaufort_violent_storm">Bão rất mạnh (11)</string>
+    <string name="beaufort_hurricane">Siêu Bão Cầu Nguyện Đi(12)</string>
+</resources>
